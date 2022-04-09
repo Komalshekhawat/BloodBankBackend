@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BloodBankManagementSystem
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\K RESHMA\Source\Repos\bloodbankproject\backend\BloodBankManagementSystem\
+=======
+build_property.ProjectDir = C:\Users\vikas reddy\Source\Repos\bloodbankproject\backend\BloodBankManagementSystem\
+>>>>>>> b77881e69937184d92d43ae676e340e56596d0fa
